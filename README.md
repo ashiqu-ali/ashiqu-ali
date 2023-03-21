@@ -33,3 +33,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashiqu-ali&" alt="ashiqu-ali" /></p>
 
+<img align="center" alt="banner" width="400" src= "https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
