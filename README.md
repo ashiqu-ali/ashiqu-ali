@@ -1,5 +1,17 @@
-# 💫 About Me:
-I'm Currently learning Flutter
+<h1 align="center">Hi 👋, I'm Ashiqu Ali</h1>
+<h3 align="center">FLUTTER DEVELOPER</h3>
+
+
+- 🌱 I’m currently learning **FLUTTER**
+
+- 📫 How to reach me **connect.ashiqu@gmail.com**
+
+<hr>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashiqu-ali" alt="ashiqu-ali" /></a> </p>
+
+
+
+
 
 
 ## 🌐 Socials:
@@ -12,13 +24,10 @@ I'm Currently learning Flutter
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ashiqu-ali&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashiqu-ali&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=ashiquali007)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ashiqu-ali&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashiqu-ali&label=Profile%20views&color=0e75b6&style=flat" alt="ashiqu-ali" /> </p>
