@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning **FLUTTER**
 
 - 📫 How to reach me **connect.ashiqu@gmail.com**
+- Portfolio : <a href="https://ashiqu-ali.github.io/">Link</a>
 
 <hr>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashiqu-ali" alt="ashiqu-ali" /></a> </p>
