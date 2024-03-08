@@ -4,7 +4,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" align="right" />
 
 - 🌱 I’m currently learning **FLUTTER**
-- 👯 I’m looking to collaborate on Flutter Development
+- 👯 I’m looking to collaborate on **Flutter**
 - 👨‍💻 All of my projects are available at <a href = "https://github.com/ashiqu-ali">Projects</a>
 - 📫 How to reach me <a href = "mailto:connect.ashiqu@gmail.com">Mail</a>
 - ⚡Portfolio : <a href="https://ashiqu-ali.vercel.app/">Link</a>
