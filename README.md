@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ashiqu Ali</h1>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-<h3 align="center">FLUTTER DEVELOPER</h3>
+<h3>JUNIOR SOFTWARE ENGINEER | FLUTTER | BLOC | CONVOLUTIONAL NEURAL NETWORK | 2x HACKATHON WINNER | 1x IDEATHON WINNER</h3>
 <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" align="right" />
 
-- 🌱 I’m currently learning **FLUTTER**
-- 👯 I’m looking to collaborate on **Flutter**
-- 👨‍💻 All of my projects are available at <a href = "https://github.com/ashiqu-ali">Projects</a>
 - 📫 How to reach me <a href = "mailto:connect.ashiqu@gmail.com">Mail</a>
 - ⚡Portfolio : <a href="https://ashiqu-ali.vercel.app/">Link</a>
 
